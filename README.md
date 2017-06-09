@@ -7,7 +7,3 @@ A simple ruby script for counting nucleotides and codons in a gene sequence.
 - diagnostic feedback for rejected files
 - incomplete triplet detection and warning
 - nucleotide and codon counting, obviously!
-
-## to-do
-- improve diagnostic feedback for rejected files (currently spits out every instance of every non-nucleotide character: not so good for large files)
-- recognition of nucleic acid variety
